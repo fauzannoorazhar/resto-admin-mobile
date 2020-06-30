@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "id_hari": "1",
+            "nama_hari": "Senin"
+        },
+        {
+            "id": "2",
+            "id_hari": "2",
+            "nama_hari": "Selasa"
+        },
+        {
+            "id": "3",
+            "id_hari": "3",
+            "nama_hari": "Rabu"
+        },
+        {
+            "id": "4",
+            "id_hari": "4",
+            "nama_hari": "Kamis"
+        },
+        {
+            "id": "5",
+            "id_hari": "5",
+            "nama_hari": "Jumat"
+        },
+        {
+            "id": "6",
+            "id_hari": "6",
+            "nama_hari": "Sabtu"
+        },
+        {
+            "id": "7",
+            "id_hari": "7",
+            "nama_hari": "Minggu"
+        }
+    ]
+}
